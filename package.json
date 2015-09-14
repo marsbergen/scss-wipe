@@ -1,0 +1,36 @@
+{
+  "name": "scss-wipe",
+  "version": "4.1.2",
+  "description": "Sass (scss) port of NPM module css-wipe",
+  "main": "index.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsbergen/scss-wipe.git"
+  },
+  "keywords": [
+    "reset",
+    "scss"
+  ],
+  "license": "MIT",
+  "files": [
+    "*.scss"
+  ],
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/marsbergen/scss-wipe/issues"
+  },
+  "homepage": "https://github.com/marsbergen/scss-wipe#readme",
+  "_id": "scss-wipe@4.1.2",
+  "_from": "css-wipe@*",
+  "_npmUser": {
+    "name": "marsbergen",
+    "email": "patrick@mimbee.nl"
+  },
+  "maintainers": [
+    {
+      "name": "marsbergen",
+      "email": "patrick@mimbee.nl"
+    }
+  ],
+  "directories": {}
+}
